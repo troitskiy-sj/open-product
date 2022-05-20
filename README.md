@@ -1,39 +1,11 @@
-## Welcome to GitHub Pages
+# Intro
+This is an open course on Product Managment. You can contribute to this project if you find anything useful for example or if you want to add something from your experience.
+# How to contribute
+This course is made of .md files, which are markdown files. You can use any editor. I personally use AI Writer on my mac to edit it and then use Github desktop to push it to Github.
+## Ways to contribute:
+	- You can add the changes you want to make and create a pull request
+	- You can add an issue and I will add something myself
+	- You can go to the community tab and add the topic
+	- You can share the project with your friends and star it for yourself too
+# Content 
 
-You can use the [editor on GitHub](https://github.com/troitskiy-sj/product-management/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-[a relative link 1.Product mindset](1.Product mindset.md)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/troitskiy-sj/product-management/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
