@@ -1,7 +1,9 @@
 # Intro
 Just wrap your mind around it, you can’t know what will happen. Everything is just an educated guess. Having more information doesn’t always help but comes handy from time to time.
 # Template
-When___(situation)I want to___(motivation)So I can___(expected outcome)
+- When___(situation)I want to___(motivation)So I can___(expected outcome)
+- We believe [doing this], for [these people], will achieve [this outcome/impact]. We will test it by 1, 2, 3. We will know the hypothesis is valid if by [date], we get [quantitive measurable outcome1, quantitive measurable outcome2]
+
 # Process
 1. We are looking for an answer to the question: what are the strategic tasks we face, who influences the company, what are our priorities;
 2. We collect everything that is known on the topic: it can be both facts and assumptions; 

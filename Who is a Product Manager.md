@@ -9,3 +9,9 @@ Non effective hypothesis needs to be cut out
 # All that you have are hypothesis
 HADI cycles
 The more you make mistakes, the better the product
+Understand-Observe-Ideate-Prototype-Test
+# The whole essence of modern approaches to creating products
+1. Let's understand what people do
+2. Why and why do they do it, what are their motives and goals
+3. What problems and difficulties they face, how they are solved 4. What can we do to help them in their activities
+5. How can we make money on that help
