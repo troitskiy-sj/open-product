@@ -15,6 +15,7 @@
 - MVP launch
 - collection of the semantic core
 - Clustering feedback comments
+- letter of intent from the client for investors
 
 # Questionnaires, surveys
 Surveys increase audience reach and user engagement. With the help of polls, you get important information and show customers that you are interested in their opinion. And quantitatively test the hypothesis.
