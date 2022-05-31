@@ -6,10 +6,11 @@ There are a lot of ways to describe what needs to be done. Try not to over focus
 - User stories
 - Just notes
 - BPMN Diagrams
-- Just flow diagrams
+- Just flow charts
 - CJM (customer journey map)
 - JTBD (jobs to be done)
 - Job Stories
+- Mockups
 
 # Structuring the information
 - Clustering by two indicators
@@ -90,3 +91,6 @@ profile and how it should look. It was important to strike a balance: a lack of 
 The client should always see the seller's profile in the application, as if he is nearby. This will reduce the level of anxiety.
 The profile should contain a photo of the seller, his position and information about how long he has been with the company and how many cars he has sold. This will help the client to trust the employee.
 The profile must contain contact information for contacting the seller. In addition to the phone and mail, you need an "Ask a question [seller]" button. This will give the client the opportunity to make sure that he correctly filled out all the documents.
+
+# Flowcharts
+https://www.smartdraw.com/flowchart/flowchart-symbols.htm 
